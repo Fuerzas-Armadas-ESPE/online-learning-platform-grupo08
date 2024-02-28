@@ -1,9 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LSmRmCeB)
-# React + Vite
+# Online Learning Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Online Learning Platform](img/image.png)
 
-Currently, two official plugins are available:
+Este repositorio contiene el código fuente de la aplicación de la plataforma de aprendizaje en línea. En este proyecto, se implementa la gestión del estado en React.js utilizando Redux para mejorar la organización y escalabilidad del estado de la aplicación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introducción
+
+En este tema, exploraremos cómo gestionar el estado de una aplicación React.js utilizando Redux. Redux es una biblioteca de manejo de estado predecible y centralizada para aplicaciones JavaScript, especialmente útil en aplicaciones de React para manejar estados complejos de manera más organizada y escalable.
+
+## Plataforma de aprendizaje en línea: Online Learning Platform
+
+La plataforma de aprendizaje en línea ofrece una amplia gama de cursos sobre diversos temas. Esta plataforma proporciona funciones avanzadas para mejorar la experiencia del usuario al navegar y tomar cursos en línea.
+
+## Repositorio
+
+**Nombre:** Online Learning Platform
+    
+**URL:** enlace al repositorio
+
+**Contribuciones:** Los estudiantes pueden contribuir al proyecto realizando mejoras, correcciones de errores y agregando nuevas características según sea necesario.
+
+## Actividades
+
+**Exploración del Repositorio:** Los estudiantes explorarán el repositorio de la plataforma de aprendizaje en línea para comprender su estructura y funcionamiento.
+
+**Análisis de Estado Actual:** Se analizará el manejo de estado actual de la aplicación y se identificarán áreas donde Redux podría mejorar la gestión del estado.
+
+**Implementación de Redux:** Los estudiantes implementarán Redux en la aplicación, creando acciones
