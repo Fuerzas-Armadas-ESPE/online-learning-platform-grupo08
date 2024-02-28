@@ -7,7 +7,7 @@ const Home = () => {
       <h1>Welcome to Online Learning Platform</h1>
       <p>Start your learning journey today!</p>
       <Button variant="contained" component={Link} to="/courses">
-        Explore Courses
+        Explorar los cursos disponibles
       </Button>
       <footer>
         <p>© 2024 Online Learning Platform. All rights reserved.</p>
